@@ -1,6 +1,5 @@
 +++
 date = '2025-11-16T12:01:14+01:00'
-draft = true
 title = 'Astro vs Hugo'
 +++
 
