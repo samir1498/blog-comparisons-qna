@@ -2,29 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog-comparisons-qna/questions/</loc>
-    <lastmod>2025-11-16T12:06:02+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog-comparisons-qna/comparisons/</loc>
-    <lastmod>2025-11-16T12:05:50+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog-comparisons-qna/blog/</loc>
+    <loc>https://samir1498.github.io/blog-comparisons-qna/blog/</loc>
     <lastmod>2025-11-16T12:05:38+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog-comparisons-qna/</loc>
-    <lastmod>2025-11-16T12:04:58+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog-comparisons-qna/questions/faq/</loc>
-    <lastmod>2025-11-16T12:01:46+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog-comparisons-qna/comparisons/astro-vs-hugo/</loc>
-    <lastmod>2025-11-16T12:01:14+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog-comparisons-qna/blog/first-post/</loc>
+    <loc>https://samir1498.github.io/blog-comparisons-qna/blog/first-post/</loc>
     <lastmod>2025-11-16T12:00:13+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog-comparisons-qna/categories/</loc>
+    <loc>https://samir1498.github.io/blog-comparisons-qna/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog-comparisons-qna/tags/</loc>
+    <loc>https://samir1498.github.io/blog-comparisons-qna/tags/</loc>
   </url>
 </urlset>
