@@ -2,6 +2,8 @@ baseURL = 'https://samir1498.github.io/blog-comparisons-qna/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "hugo-bearblog"
+publishDir = "docs"
+
 [menu]
   [[menu.main]]
     name = "Home"
