@@ -6,12 +6,12 @@
     <description>Recent content in Questions on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Nov 2025 12:01:46 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 12:01:46 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/blog-comparisons-qna/questions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Faq</title>
       <link>http://localhost:1313/blog-comparisons-qna/questions/faq/</link>
-      <pubDate>Sun, 16 Nov 2025 12:01:46 +0100</pubDate>
+      <pubDate>Sat, 16 Nov 2024 12:01:46 +0100</pubDate>
       <guid>http://localhost:1313/blog-comparisons-qna/questions/faq/</guid>
       <description>&lt;h3 id=&#34;-why-is-this-project-created&#34;&gt;❓ Why is this project created?&lt;/h3&gt;&#xA;&lt;p&gt;This is a proof-of-concept Hugo site for testing blogs, comparisons, and Q&amp;amp;A sections.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-what-features-are-included&#34;&gt;❓ What features are included?&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Blog posts with Markdown and code examples&lt;/li&gt;&#xA;&lt;li&gt;Comparison tables&lt;/li&gt;&#xA;&lt;li&gt;Q&amp;amp;A/FAQ pages&lt;/li&gt;&#xA;&lt;li&gt;Minimal Bear Blog theme&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-can-i-add-more-code-examples&#34;&gt;❓ Can I add more code examples?&lt;/h3&gt;&#xA;&lt;p&gt;Yes! Hugo supports fenced code blocks with syntax highlighting for many languages.&lt;/p&gt;</description>
     </item>
